@@ -29,3 +29,4 @@ To run the hello script:
 python scripts/hello.py
 ```
 
+Student: Siana Collier
